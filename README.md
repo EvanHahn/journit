@@ -16,7 +16,7 @@ today was rad
 i run this:
 
 ```sh
-./path/to/journit
+./path/to/journit.sh
 ```
 
 i get a file called `2015-01-23.txt` that contains this:
