@@ -1,5 +1,7 @@
-journit for osx
+journit for OSX
 ===============
+
+a random script that i needed as a companion for [journ](https://github.com/EvanHahn/journ)
 
 i have this on my clipboard:
 
@@ -25,4 +27,6 @@ dear diary:
 today was rad
 ```
 
-only works on osx for now
+only works on OSX for now
+
+enjoy, friend
